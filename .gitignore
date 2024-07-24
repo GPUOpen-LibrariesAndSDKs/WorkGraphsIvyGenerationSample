@@ -1,0 +1,7 @@
+# CMake build folder
+build
+# Binary output folder
+bin
+# Cauldron media folder
+media
+!media/Ivy
